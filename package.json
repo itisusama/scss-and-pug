@@ -1,0 +1,12 @@
+{
+  "name": "scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch-pug": "pug pug/index.pug --out . --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
